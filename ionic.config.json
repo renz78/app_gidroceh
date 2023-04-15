@@ -1,0 +1,7 @@
+{
+  "name": "gidroceh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
